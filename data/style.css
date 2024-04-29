@@ -1,0 +1,28 @@
+html {
+    font-family: Helvetica;
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+  }
+  h1{
+    color: #0F3376;
+    padding: 30px;
+    font-size: 1.5rem;
+  }
+  button{
+    font-size: 2.0rem;
+    width: 180px;
+    height: 75px;
+    margin: 10px;
+    border-radius: 3px;
+  }
+  #btn_led_on{
+    color: #cc0000;
+    border: solid 2px #cc0000;
+    background-color: #ffcccc;
+  }
+  #btn_led_off{
+    color: #00cccc;
+    border: solid 2px #00cccc;
+    background-color: 7acccc;
+  }
